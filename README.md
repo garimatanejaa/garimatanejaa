@@ -6,7 +6,7 @@ I'm Garima Taneja, a passionate web developer and tech enthusiast. I love explor
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with machine learning projects
 - 💬 Ask me about web development, machine learning, or anything tech-related
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/garimatanejaa/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/garimataneja/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and playing table tennis
 - 📫 You can visit my portfolio: [Portfolio](https://garimacodes.vercel.app/)
