@@ -10,14 +10,15 @@ I'm Garima Taneja, a passionate web developer and tech enthusiast. I love explor
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and playing table tennis
 - 📫 You can visit my portfolio: [Portfolio](https://garimacodes.vercel.app/)
-- ![Profile views](https://komarev.com/ghpvc/?username=garimatanejaa&color=red&style=flat)
+- ![Profile views](https://komarev.com/ghpvc/?username=garimatanejaa&color=blue&style=flat)
 
 
 ### GitHub Stats
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garimatanejaa&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garimatanejaa&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garimatanejaa&show_icons=true&locale=en&layout=compact" alt="garimatanejaa" /></p>
+
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garimatanejaa/)
