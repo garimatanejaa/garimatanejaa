@@ -9,7 +9,6 @@ I'm Garima Taneja, a passionate web developer and tech enthusiast. I love explor
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/garimataneja/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and playing table tennis
-- 📫 You can visit my portfolio: [Portfolio](https://garimacodes.vercel.app/)
 
 + Visit count (since 17 Feb 2025):
   ![](https://count.getloli.com/get/@garimatanejaa?theme=moebooru)
