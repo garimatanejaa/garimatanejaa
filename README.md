@@ -1,5 +1,6 @@
-<img align="right" width="280" src="https://github.com/user-attachments/assets/a120ad11-5496-4595-b356-af8610692bb2">
 ## Hi there 👋
+<img align="right" width="280" src="https://github.com/user-attachments/assets/7888cfa7-4827-4cf9-bf26-72e24aeff0e3">
+
 
 I'm Garima Taneja, a passionate web developer and tech enthusiast. I love exploring new technologies and working on exciting projects. Here's a bit more about me:
 
