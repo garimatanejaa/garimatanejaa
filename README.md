@@ -16,9 +16,16 @@ I'm Garima Taneja, a passionate web developer and tech enthusiast. I love explor
   ![](https://count.getloli.com/get/@garimatanejaa?theme=moebooru)
 
 
-### GitHub Stats
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garimatanejaa&show_icons=true&theme=radical)
-<h3 align="left">Languages and Tools:</h3>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garimatanejaa&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garimatanejaa&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garimatanejaa&theme=dracula)
+
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garimatanejaa&show_icons=true&locale=en&layout=compact" alt="garimatanejaa" /></p>
 
