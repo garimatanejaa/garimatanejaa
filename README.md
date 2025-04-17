@@ -13,7 +13,8 @@ I'm Garima Taneja, a passionate web developer and tech enthusiast. I love explor
 - ⚡ Fun fact: I love solving puzzles and playing table tennis
 
 + Visit count
-+ 
+<br>
+
   ![](https://count.getloli.com/get/@garimatanejaa?theme=moebooru)
 
 
